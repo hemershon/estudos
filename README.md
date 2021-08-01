@@ -20,3 +20,14 @@ Ruby suporta programação funcional, orientada a objetos, imperativa e reflexiv
         puts "Revisando os conceitos básicos de Ruby"
         puts "Entendendo como funciona o puts do ruby"
     ```
+ - [x] [variável](variaveis.rb)
+
+    # declaração locais, instância, global e uma constante
+    # declara integer
+    ```
+    age = 37 # variável local
+    ```
+    # declara float
+    ```
+    @num = 23.3 # variavel de instância
+    ```
