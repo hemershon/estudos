@@ -22,12 +22,12 @@ Ruby suporta programação funcional, orientada a objetos, imperativa e reflexiv
     ```
  - [x] [variável](variaveis.rb)
 
-    # declaração locais, instância, global e uma constante
-    # declara integer
+    ### declaração locais, instância, global e uma constante
+    *declara integer*
     ```
     age = 37 # variável local
     ```
-    # declara float
+    *declara float*
     ```
     @num = 23.3 # variavel de instância
     ```
