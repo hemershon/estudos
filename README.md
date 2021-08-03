@@ -31,3 +31,17 @@ Ruby suporta programação funcional, orientada a objetos, imperativa e reflexiv
     ```
     @num = 23.3 # variavel de instância
     ```
+- [x] 3: Estruturas de Controle
+    [Condicionais: If, Else, Elsif, Unless e Case](https://github.com/hemershon/estudos/tree/main/condicionais)
+    ```
+    case menu
+    when 1
+        puts "abri arquivo"
+    when 2 
+    puts "Editar arquivo"
+    when 3 
+        puts "Salvar arquivo"
+    else
+        puts "Você digitou algo inválido"
+    end
+```
