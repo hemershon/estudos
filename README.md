@@ -45,7 +45,7 @@ Ruby suporta programação funcional, orientada a objetos, imperativa e reflexiv
         puts "Você digitou algo inválido"
     end
 ```
-    [Estruturas de repetição Loops](https://github.com/hemershon/estudos/tree/main/loops)
+- [x] [Estruturas de repetição Loops](https://github.com/hemershon/estudos/tree/main/loops)
     ```
     count = 1
 
